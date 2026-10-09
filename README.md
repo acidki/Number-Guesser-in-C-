@@ -41,5 +41,4 @@ You need a C++ compiler installed on your system (e.g., `g++`, `clang`, or MSVC)
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/acidki/Number-Guesser-in-C-.git)
